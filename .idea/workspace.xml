@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92bf2b5d-2ce8-4def-a80c-dbaf2f881a5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpamClassification/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/SpamClassification/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -125,7 +124,7 @@
       <workItem from="1584669853755" duration="5816000" />
       <workItem from="1584719799930" duration="7740000" />
       <workItem from="1585003247968" duration="5880000" />
-      <workItem from="1585158710799" duration="56000" />
+      <workItem from="1585158710799" duration="661000" />
     </task>
     <servers />
   </component>
